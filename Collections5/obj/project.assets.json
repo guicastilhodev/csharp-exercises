@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guica\\source\\repos\\csharp-exercises\\CollectionsExercicios\\CollectionsExercicios.csproj",
-      "projectName": "CollectionsExercicios",
-      "projectPath": "C:\\Users\\guica\\source\\repos\\csharp-exercises\\CollectionsExercicios\\CollectionsExercicios.csproj",
+      "projectUniqueName": "C:\\Users\\guica\\Documents\\DEV\\csharp-exercises\\Collections5\\Collections5.csproj",
+      "projectName": "Collections5",
+      "projectPath": "C:\\Users\\guica\\Documents\\DEV\\csharp-exercises\\Collections5\\Collections5.csproj",
       "packagesPath": "C:\\Users\\guica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guica\\source\\repos\\csharp-exercises\\CollectionsExercicios\\obj\\",
+      "outputPath": "C:\\Users\\guica\\Documents\\DEV\\csharp-exercises\\Collections5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guica\\AppData\\Roaming\\NuGet\\NuGet.Config",
