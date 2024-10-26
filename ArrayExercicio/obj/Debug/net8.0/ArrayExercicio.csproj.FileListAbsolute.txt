@@ -1,0 +1,14 @@
+C:\Users\guica\source\repos\Collections\ArrayExercicio\bin\Debug\net8.0\ArrayExercicio.exe
+C:\Users\guica\source\repos\Collections\ArrayExercicio\bin\Debug\net8.0\ArrayExercicio.deps.json
+C:\Users\guica\source\repos\Collections\ArrayExercicio\bin\Debug\net8.0\ArrayExercicio.runtimeconfig.json
+C:\Users\guica\source\repos\Collections\ArrayExercicio\bin\Debug\net8.0\ArrayExercicio.dll
+C:\Users\guica\source\repos\Collections\ArrayExercicio\bin\Debug\net8.0\ArrayExercicio.pdb
+C:\Users\guica\source\repos\Collections\ArrayExercicio\obj\Debug\net8.0\ArrayExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\source\repos\Collections\ArrayExercicio\obj\Debug\net8.0\ArrayExercicio.AssemblyInfoInputs.cache
+C:\Users\guica\source\repos\Collections\ArrayExercicio\obj\Debug\net8.0\ArrayExercicio.AssemblyInfo.cs
+C:\Users\guica\source\repos\Collections\ArrayExercicio\obj\Debug\net8.0\ArrayExercicio.csproj.CoreCompileInputs.cache
+C:\Users\guica\source\repos\Collections\ArrayExercicio\obj\Debug\net8.0\ArrayExercicio.dll
+C:\Users\guica\source\repos\Collections\ArrayExercicio\obj\Debug\net8.0\refint\ArrayExercicio.dll
+C:\Users\guica\source\repos\Collections\ArrayExercicio\obj\Debug\net8.0\ArrayExercicio.pdb
+C:\Users\guica\source\repos\Collections\ArrayExercicio\obj\Debug\net8.0\ArrayExercicio.genruntimeconfig.cache
+C:\Users\guica\source\repos\Collections\ArrayExercicio\obj\Debug\net8.0\ref\ArrayExercicio.dll
