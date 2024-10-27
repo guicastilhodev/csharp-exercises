@@ -1,0 +1,15 @@
+C:\Users\guica\Documents\DEV\csharp-exercises\Collections6\bin\Debug\net8.0\Collections6.exe
+C:\Users\guica\Documents\DEV\csharp-exercises\Collections6\bin\Debug\net8.0\Collections6.deps.json
+C:\Users\guica\Documents\DEV\csharp-exercises\Collections6\bin\Debug\net8.0\Collections6.runtimeconfig.json
+C:\Users\guica\Documents\DEV\csharp-exercises\Collections6\bin\Debug\net8.0\Collections6.dll
+C:\Users\guica\Documents\DEV\csharp-exercises\Collections6\bin\Debug\net8.0\Collections6.pdb
+C:\Users\guica\Documents\DEV\csharp-exercises\Collections6\obj\Debug\net8.0\Collections6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\Documents\DEV\csharp-exercises\Collections6\obj\Debug\net8.0\Collections6.AssemblyInfoInputs.cache
+C:\Users\guica\Documents\DEV\csharp-exercises\Collections6\obj\Debug\net8.0\Collections6.AssemblyInfo.cs
+C:\Users\guica\Documents\DEV\csharp-exercises\Collections6\obj\Debug\net8.0\Collections6.csproj.CoreCompileInputs.cache
+C:\Users\guica\Documents\DEV\csharp-exercises\Collections6\obj\Debug\net8.0\Collections6.sourcelink.json
+C:\Users\guica\Documents\DEV\csharp-exercises\Collections6\obj\Debug\net8.0\Collections6.dll
+C:\Users\guica\Documents\DEV\csharp-exercises\Collections6\obj\Debug\net8.0\refint\Collections6.dll
+C:\Users\guica\Documents\DEV\csharp-exercises\Collections6\obj\Debug\net8.0\Collections6.pdb
+C:\Users\guica\Documents\DEV\csharp-exercises\Collections6\obj\Debug\net8.0\Collections6.genruntimeconfig.cache
+C:\Users\guica\Documents\DEV\csharp-exercises\Collections6\obj\Debug\net8.0\ref\Collections6.dll

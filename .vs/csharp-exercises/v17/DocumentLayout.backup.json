@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\guica\\Documents\\DEV\\csharp-exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D3DB064-33AB-4E23-85ED-2953DF08F5BD}|Collections6\\Collections6.csproj|c:\\users\\guica\\documents\\dev\\csharp-exercises\\collections6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D3DB064-33AB-4E23-85ED-2953DF08F5BD}|Collections6\\Collections6.csproj|solutionrelative:collections6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B6503D3-0889-48A2-9782-3A0235940B53}|Collections7\\Collections7.csproj|c:\\users\\guica\\documents\\dev\\csharp-exercises\\collections7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B6503D3-0889-48A2-9782-3A0235940B53}|Collections7\\Collections7.csproj|solutionrelative:collections7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guica\\Documents\\DEV\\csharp-exercises\\Collections6\\Program.cs",
-              "RelativeDocumentMoniker": "Collections6\\Program.cs",
-              "ToolTip": "C:\\Users\\guica\\Documents\\DEV\\csharp-exercises\\Collections6\\Program.cs",
-              "RelativeToolTip": "Collections6\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAIAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T00:06:08.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Users\\guica\\Documents\\DEV\\csharp-exercises\\Collections7\\Aluno.cs",
               "RelativeDocumentMoniker": "Collections7\\Aluno.cs",
@@ -56,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\guica\\Documents\\DEV\\csharp-exercises\\Collections7\\Program.cs",
               "RelativeDocumentMoniker": "Collections7\\Program.cs",
               "ToolTip": "C:\\Users\\guica\\Documents\\DEV\\csharp-exercises\\Collections7\\Program.cs",
               "RelativeToolTip": "Collections7\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T23:48:14.983Z",
               "EditorCaption": ""
