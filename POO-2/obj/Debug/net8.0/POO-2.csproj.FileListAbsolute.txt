@@ -1,0 +1,14 @@
+C:\Users\guica\source\repos\csharp-exercises\POO-2\bin\Debug\net8.0\POO-2.exe
+C:\Users\guica\source\repos\csharp-exercises\POO-2\bin\Debug\net8.0\POO-2.deps.json
+C:\Users\guica\source\repos\csharp-exercises\POO-2\bin\Debug\net8.0\POO-2.runtimeconfig.json
+C:\Users\guica\source\repos\csharp-exercises\POO-2\bin\Debug\net8.0\POO-2.dll
+C:\Users\guica\source\repos\csharp-exercises\POO-2\bin\Debug\net8.0\POO-2.pdb
+C:\Users\guica\source\repos\csharp-exercises\POO-2\obj\Debug\net8.0\POO-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\source\repos\csharp-exercises\POO-2\obj\Debug\net8.0\POO-2.AssemblyInfoInputs.cache
+C:\Users\guica\source\repos\csharp-exercises\POO-2\obj\Debug\net8.0\POO-2.AssemblyInfo.cs
+C:\Users\guica\source\repos\csharp-exercises\POO-2\obj\Debug\net8.0\POO-2.csproj.CoreCompileInputs.cache
+C:\Users\guica\source\repos\csharp-exercises\POO-2\obj\Debug\net8.0\POO-2.dll
+C:\Users\guica\source\repos\csharp-exercises\POO-2\obj\Debug\net8.0\refint\POO-2.dll
+C:\Users\guica\source\repos\csharp-exercises\POO-2\obj\Debug\net8.0\POO-2.pdb
+C:\Users\guica\source\repos\csharp-exercises\POO-2\obj\Debug\net8.0\POO-2.genruntimeconfig.cache
+C:\Users\guica\source\repos\csharp-exercises\POO-2\obj\Debug\net8.0\ref\POO-2.dll
