@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Solução para exercícios de C# do curso do Marcoratti");

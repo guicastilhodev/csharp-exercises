@@ -1,0 +1,14 @@
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ3\bin\Debug\net8.0\ConsultasLINQ3.exe
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ3\bin\Debug\net8.0\ConsultasLINQ3.deps.json
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ3\bin\Debug\net8.0\ConsultasLINQ3.runtimeconfig.json
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ3\bin\Debug\net8.0\ConsultasLINQ3.dll
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ3\bin\Debug\net8.0\ConsultasLINQ3.pdb
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ3\obj\Debug\net8.0\ConsultasLINQ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ3\obj\Debug\net8.0\ConsultasLINQ3.AssemblyInfoInputs.cache
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ3\obj\Debug\net8.0\ConsultasLINQ3.AssemblyInfo.cs
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ3\obj\Debug\net8.0\ConsultasLINQ3.csproj.CoreCompileInputs.cache
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ3\obj\Debug\net8.0\ConsultasLINQ3.dll
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ3\obj\Debug\net8.0\refint\ConsultasLINQ3.dll
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ3\obj\Debug\net8.0\ConsultasLINQ3.pdb
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ3\obj\Debug\net8.0\ConsultasLINQ3.genruntimeconfig.cache
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ3\obj\Debug\net8.0\ref\ConsultasLINQ3.dll

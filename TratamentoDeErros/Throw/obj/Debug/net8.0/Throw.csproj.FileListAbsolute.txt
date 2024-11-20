@@ -1,0 +1,14 @@
+C:\Users\guica\source\repos\TratamentoDeErros\Throw\bin\Debug\net8.0\Throw.exe
+C:\Users\guica\source\repos\TratamentoDeErros\Throw\bin\Debug\net8.0\Throw.deps.json
+C:\Users\guica\source\repos\TratamentoDeErros\Throw\bin\Debug\net8.0\Throw.runtimeconfig.json
+C:\Users\guica\source\repos\TratamentoDeErros\Throw\bin\Debug\net8.0\Throw.dll
+C:\Users\guica\source\repos\TratamentoDeErros\Throw\bin\Debug\net8.0\Throw.pdb
+C:\Users\guica\source\repos\TratamentoDeErros\Throw\obj\Debug\net8.0\Throw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\source\repos\TratamentoDeErros\Throw\obj\Debug\net8.0\Throw.AssemblyInfoInputs.cache
+C:\Users\guica\source\repos\TratamentoDeErros\Throw\obj\Debug\net8.0\Throw.AssemblyInfo.cs
+C:\Users\guica\source\repos\TratamentoDeErros\Throw\obj\Debug\net8.0\Throw.csproj.CoreCompileInputs.cache
+C:\Users\guica\source\repos\TratamentoDeErros\Throw\obj\Debug\net8.0\Throw.dll
+C:\Users\guica\source\repos\TratamentoDeErros\Throw\obj\Debug\net8.0\refint\Throw.dll
+C:\Users\guica\source\repos\TratamentoDeErros\Throw\obj\Debug\net8.0\Throw.pdb
+C:\Users\guica\source\repos\TratamentoDeErros\Throw\obj\Debug\net8.0\Throw.genruntimeconfig.cache
+C:\Users\guica\source\repos\TratamentoDeErros\Throw\obj\Debug\net8.0\ref\Throw.dll

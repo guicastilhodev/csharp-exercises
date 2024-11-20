@@ -1,0 +1,14 @@
+C:\Users\guica\source\repos\Collections\CollectionsExercicios\bin\Debug\net8.0\CollectionsExercicios.exe
+C:\Users\guica\source\repos\Collections\CollectionsExercicios\bin\Debug\net8.0\CollectionsExercicios.deps.json
+C:\Users\guica\source\repos\Collections\CollectionsExercicios\bin\Debug\net8.0\CollectionsExercicios.runtimeconfig.json
+C:\Users\guica\source\repos\Collections\CollectionsExercicios\bin\Debug\net8.0\CollectionsExercicios.dll
+C:\Users\guica\source\repos\Collections\CollectionsExercicios\bin\Debug\net8.0\CollectionsExercicios.pdb
+C:\Users\guica\source\repos\Collections\CollectionsExercicios\obj\Debug\net8.0\CollectionsExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\source\repos\Collections\CollectionsExercicios\obj\Debug\net8.0\CollectionsExercicios.AssemblyInfoInputs.cache
+C:\Users\guica\source\repos\Collections\CollectionsExercicios\obj\Debug\net8.0\CollectionsExercicios.AssemblyInfo.cs
+C:\Users\guica\source\repos\Collections\CollectionsExercicios\obj\Debug\net8.0\CollectionsExercicios.csproj.CoreCompileInputs.cache
+C:\Users\guica\source\repos\Collections\CollectionsExercicios\obj\Debug\net8.0\CollectionsExercicios.dll
+C:\Users\guica\source\repos\Collections\CollectionsExercicios\obj\Debug\net8.0\refint\CollectionsExercicios.dll
+C:\Users\guica\source\repos\Collections\CollectionsExercicios\obj\Debug\net8.0\CollectionsExercicios.pdb
+C:\Users\guica\source\repos\Collections\CollectionsExercicios\obj\Debug\net8.0\CollectionsExercicios.genruntimeconfig.cache
+C:\Users\guica\source\repos\Collections\CollectionsExercicios\obj\Debug\net8.0\ref\CollectionsExercicios.dll

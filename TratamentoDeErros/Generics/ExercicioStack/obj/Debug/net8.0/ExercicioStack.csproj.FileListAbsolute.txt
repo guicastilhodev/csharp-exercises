@@ -1,0 +1,14 @@
+C:\Users\guica\source\repos\Generics\ExercicioStack\bin\Debug\net8.0\ExercicioStack.exe
+C:\Users\guica\source\repos\Generics\ExercicioStack\bin\Debug\net8.0\ExercicioStack.deps.json
+C:\Users\guica\source\repos\Generics\ExercicioStack\bin\Debug\net8.0\ExercicioStack.runtimeconfig.json
+C:\Users\guica\source\repos\Generics\ExercicioStack\bin\Debug\net8.0\ExercicioStack.dll
+C:\Users\guica\source\repos\Generics\ExercicioStack\bin\Debug\net8.0\ExercicioStack.pdb
+C:\Users\guica\source\repos\Generics\ExercicioStack\obj\Debug\net8.0\ExercicioStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\source\repos\Generics\ExercicioStack\obj\Debug\net8.0\ExercicioStack.AssemblyInfoInputs.cache
+C:\Users\guica\source\repos\Generics\ExercicioStack\obj\Debug\net8.0\ExercicioStack.AssemblyInfo.cs
+C:\Users\guica\source\repos\Generics\ExercicioStack\obj\Debug\net8.0\ExercicioStack.csproj.CoreCompileInputs.cache
+C:\Users\guica\source\repos\Generics\ExercicioStack\obj\Debug\net8.0\ExercicioStack.dll
+C:\Users\guica\source\repos\Generics\ExercicioStack\obj\Debug\net8.0\refint\ExercicioStack.dll
+C:\Users\guica\source\repos\Generics\ExercicioStack\obj\Debug\net8.0\ExercicioStack.pdb
+C:\Users\guica\source\repos\Generics\ExercicioStack\obj\Debug\net8.0\ExercicioStack.genruntimeconfig.cache
+C:\Users\guica\source\repos\Generics\ExercicioStack\obj\Debug\net8.0\ref\ExercicioStack.dll

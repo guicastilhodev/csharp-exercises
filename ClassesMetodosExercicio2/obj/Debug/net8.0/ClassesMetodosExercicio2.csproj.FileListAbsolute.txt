@@ -1,0 +1,14 @@
+C:\Users\guica\source\repos\ClassesMetodos\ClassesMetodosExercicio2\bin\Debug\net8.0\ClassesMetodosExercicio2.exe
+C:\Users\guica\source\repos\ClassesMetodos\ClassesMetodosExercicio2\bin\Debug\net8.0\ClassesMetodosExercicio2.deps.json
+C:\Users\guica\source\repos\ClassesMetodos\ClassesMetodosExercicio2\bin\Debug\net8.0\ClassesMetodosExercicio2.runtimeconfig.json
+C:\Users\guica\source\repos\ClassesMetodos\ClassesMetodosExercicio2\bin\Debug\net8.0\ClassesMetodosExercicio2.dll
+C:\Users\guica\source\repos\ClassesMetodos\ClassesMetodosExercicio2\bin\Debug\net8.0\ClassesMetodosExercicio2.pdb
+C:\Users\guica\source\repos\ClassesMetodos\ClassesMetodosExercicio2\obj\Debug\net8.0\ClassesMetodosExercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\source\repos\ClassesMetodos\ClassesMetodosExercicio2\obj\Debug\net8.0\ClassesMetodosExercicio2.AssemblyInfoInputs.cache
+C:\Users\guica\source\repos\ClassesMetodos\ClassesMetodosExercicio2\obj\Debug\net8.0\ClassesMetodosExercicio2.AssemblyInfo.cs
+C:\Users\guica\source\repos\ClassesMetodos\ClassesMetodosExercicio2\obj\Debug\net8.0\ClassesMetodosExercicio2.csproj.CoreCompileInputs.cache
+C:\Users\guica\source\repos\ClassesMetodos\ClassesMetodosExercicio2\obj\Debug\net8.0\ClassesMetodosExercicio2.dll
+C:\Users\guica\source\repos\ClassesMetodos\ClassesMetodosExercicio2\obj\Debug\net8.0\refint\ClassesMetodosExercicio2.dll
+C:\Users\guica\source\repos\ClassesMetodos\ClassesMetodosExercicio2\obj\Debug\net8.0\ClassesMetodosExercicio2.pdb
+C:\Users\guica\source\repos\ClassesMetodos\ClassesMetodosExercicio2\obj\Debug\net8.0\ClassesMetodosExercicio2.genruntimeconfig.cache
+C:\Users\guica\source\repos\ClassesMetodos\ClassesMetodosExercicio2\obj\Debug\net8.0\ref\ClassesMetodosExercicio2.dll

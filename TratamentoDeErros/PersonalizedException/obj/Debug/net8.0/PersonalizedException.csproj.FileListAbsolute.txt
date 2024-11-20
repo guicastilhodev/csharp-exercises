@@ -1,0 +1,14 @@
+C:\Users\guica\source\repos\TratamentoDeErros\PersonalizedException\bin\Debug\net8.0\PersonalizedException.exe
+C:\Users\guica\source\repos\TratamentoDeErros\PersonalizedException\bin\Debug\net8.0\PersonalizedException.deps.json
+C:\Users\guica\source\repos\TratamentoDeErros\PersonalizedException\bin\Debug\net8.0\PersonalizedException.runtimeconfig.json
+C:\Users\guica\source\repos\TratamentoDeErros\PersonalizedException\bin\Debug\net8.0\PersonalizedException.dll
+C:\Users\guica\source\repos\TratamentoDeErros\PersonalizedException\bin\Debug\net8.0\PersonalizedException.pdb
+C:\Users\guica\source\repos\TratamentoDeErros\PersonalizedException\obj\Debug\net8.0\PersonalizedException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\source\repos\TratamentoDeErros\PersonalizedException\obj\Debug\net8.0\PersonalizedException.AssemblyInfoInputs.cache
+C:\Users\guica\source\repos\TratamentoDeErros\PersonalizedException\obj\Debug\net8.0\PersonalizedException.AssemblyInfo.cs
+C:\Users\guica\source\repos\TratamentoDeErros\PersonalizedException\obj\Debug\net8.0\PersonalizedException.csproj.CoreCompileInputs.cache
+C:\Users\guica\source\repos\TratamentoDeErros\PersonalizedException\obj\Debug\net8.0\PersonalizedException.dll
+C:\Users\guica\source\repos\TratamentoDeErros\PersonalizedException\obj\Debug\net8.0\refint\PersonalizedException.dll
+C:\Users\guica\source\repos\TratamentoDeErros\PersonalizedException\obj\Debug\net8.0\PersonalizedException.pdb
+C:\Users\guica\source\repos\TratamentoDeErros\PersonalizedException\obj\Debug\net8.0\PersonalizedException.genruntimeconfig.cache
+C:\Users\guica\source\repos\TratamentoDeErros\PersonalizedException\obj\Debug\net8.0\ref\PersonalizedException.dll

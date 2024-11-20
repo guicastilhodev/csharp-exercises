@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guica\\source\\repos\\csharp-exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9531E-4D2E-4B42-B365-D91CEBEE536D}|POO-3\\POO-3.csproj|c:\\users\\guica\\source\\repos\\csharp-exercises\\poo-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C9531E-4D2E-4B42-B365-D91CEBEE536D}|POO-3\\POO-3.csproj|solutionrelative:poo-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9531E-4D2E-4B42-B365-D91CEBEE536D}|POO-3\\POO-3.csproj|c:\\users\\guica\\source\\repos\\csharp-exercises\\poo-3\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C9531E-4D2E-4B42-B365-D91CEBEE536D}|POO-3\\POO-3.csproj|solutionrelative:poo-3\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9531E-4D2E-4B42-B365-D91CEBEE536D}|POO-3\\POO-3.csproj|c:\\users\\guica\\source\\repos\\csharp-exercises\\poo-3\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C9531E-4D2E-4B42-B365-D91CEBEE536D}|POO-3\\POO-3.csproj|solutionrelative:poo-3\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9531E-4D2E-4B42-B365-D91CEBEE536D}|POO-3\\POO-3.csproj|c:\\users\\guica\\source\\repos\\csharp-exercises\\poo-3\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C9531E-4D2E-4B42-B365-D91CEBEE536D}|POO-3\\POO-3.csproj|solutionrelative:poo-3\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\guica\\source\\repos\\csharp-exercises\\POO-3\\Professor.cs",
+              "RelativeDocumentMoniker": "POO-3\\Professor.cs",
+              "ToolTip": "C:\\Users\\guica\\source\\repos\\csharp-exercises\\POO-3\\Professor.cs",
+              "RelativeToolTip": "POO-3\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:08:41.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\guica\\source\\repos\\csharp-exercises\\POO-3\\Aluno.cs",
+              "RelativeDocumentMoniker": "POO-3\\Aluno.cs",
+              "ToolTip": "C:\\Users\\guica\\source\\repos\\csharp-exercises\\POO-3\\Aluno.cs",
+              "RelativeToolTip": "POO-3\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:05:58.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\guica\\source\\repos\\csharp-exercises\\POO-3\\Pessoa.cs",
+              "RelativeDocumentMoniker": "POO-3\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\guica\\source\\repos\\csharp-exercises\\POO-3\\Pessoa.cs",
+              "RelativeToolTip": "POO-3\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:03:54.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guica\\source\\repos\\csharp-exercises\\POO-3\\Program.cs",
+              "RelativeDocumentMoniker": "POO-3\\Program.cs",
+              "ToolTip": "C:\\Users\\guica\\source\\repos\\csharp-exercises\\POO-3\\Program.cs",
+              "RelativeToolTip": "POO-3\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:56:04.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

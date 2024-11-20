@@ -1,0 +1,14 @@
+C:\Users\guica\source\repos\Generics\ExercicioGeneric\bin\Debug\net8.0\ExercicioGeneric.exe
+C:\Users\guica\source\repos\Generics\ExercicioGeneric\bin\Debug\net8.0\ExercicioGeneric.deps.json
+C:\Users\guica\source\repos\Generics\ExercicioGeneric\bin\Debug\net8.0\ExercicioGeneric.runtimeconfig.json
+C:\Users\guica\source\repos\Generics\ExercicioGeneric\bin\Debug\net8.0\ExercicioGeneric.dll
+C:\Users\guica\source\repos\Generics\ExercicioGeneric\bin\Debug\net8.0\ExercicioGeneric.pdb
+C:\Users\guica\source\repos\Generics\ExercicioGeneric\obj\Debug\net8.0\ExercicioGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\source\repos\Generics\ExercicioGeneric\obj\Debug\net8.0\ExercicioGeneric.AssemblyInfoInputs.cache
+C:\Users\guica\source\repos\Generics\ExercicioGeneric\obj\Debug\net8.0\ExercicioGeneric.AssemblyInfo.cs
+C:\Users\guica\source\repos\Generics\ExercicioGeneric\obj\Debug\net8.0\ExercicioGeneric.csproj.CoreCompileInputs.cache
+C:\Users\guica\source\repos\Generics\ExercicioGeneric\obj\Debug\net8.0\ExercicioGeneric.dll
+C:\Users\guica\source\repos\Generics\ExercicioGeneric\obj\Debug\net8.0\refint\ExercicioGeneric.dll
+C:\Users\guica\source\repos\Generics\ExercicioGeneric\obj\Debug\net8.0\ExercicioGeneric.pdb
+C:\Users\guica\source\repos\Generics\ExercicioGeneric\obj\Debug\net8.0\ExercicioGeneric.genruntimeconfig.cache
+C:\Users\guica\source\repos\Generics\ExercicioGeneric\obj\Debug\net8.0\ref\ExercicioGeneric.dll

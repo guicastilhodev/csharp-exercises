@@ -1,0 +1,14 @@
+C:\Users\guica\source\repos\Collections\ArraysMultidimensionaisExercicio\bin\Debug\net8.0\ArraysMultidimensionaisExercicio.exe
+C:\Users\guica\source\repos\Collections\ArraysMultidimensionaisExercicio\bin\Debug\net8.0\ArraysMultidimensionaisExercicio.deps.json
+C:\Users\guica\source\repos\Collections\ArraysMultidimensionaisExercicio\bin\Debug\net8.0\ArraysMultidimensionaisExercicio.runtimeconfig.json
+C:\Users\guica\source\repos\Collections\ArraysMultidimensionaisExercicio\bin\Debug\net8.0\ArraysMultidimensionaisExercicio.dll
+C:\Users\guica\source\repos\Collections\ArraysMultidimensionaisExercicio\bin\Debug\net8.0\ArraysMultidimensionaisExercicio.pdb
+C:\Users\guica\source\repos\Collections\ArraysMultidimensionaisExercicio\obj\Debug\net8.0\ArraysMultidimensionaisExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\source\repos\Collections\ArraysMultidimensionaisExercicio\obj\Debug\net8.0\ArraysMultidimensionaisExercicio.AssemblyInfoInputs.cache
+C:\Users\guica\source\repos\Collections\ArraysMultidimensionaisExercicio\obj\Debug\net8.0\ArraysMultidimensionaisExercicio.AssemblyInfo.cs
+C:\Users\guica\source\repos\Collections\ArraysMultidimensionaisExercicio\obj\Debug\net8.0\ArraysMultidimensionaisExercicio.csproj.CoreCompileInputs.cache
+C:\Users\guica\source\repos\Collections\ArraysMultidimensionaisExercicio\obj\Debug\net8.0\ArraysMultidimensionaisExercicio.dll
+C:\Users\guica\source\repos\Collections\ArraysMultidimensionaisExercicio\obj\Debug\net8.0\refint\ArraysMultidimensionaisExercicio.dll
+C:\Users\guica\source\repos\Collections\ArraysMultidimensionaisExercicio\obj\Debug\net8.0\ArraysMultidimensionaisExercicio.pdb
+C:\Users\guica\source\repos\Collections\ArraysMultidimensionaisExercicio\obj\Debug\net8.0\ArraysMultidimensionaisExercicio.genruntimeconfig.cache
+C:\Users\guica\source\repos\Collections\ArraysMultidimensionaisExercicio\obj\Debug\net8.0\ref\ArraysMultidimensionaisExercicio.dll

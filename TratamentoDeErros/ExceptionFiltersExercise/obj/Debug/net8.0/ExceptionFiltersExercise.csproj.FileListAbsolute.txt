@@ -1,0 +1,14 @@
+C:\Users\guica\source\repos\TratamentoDeErros\ExceptionFiltersExercise\bin\Debug\net8.0\ExceptionFiltersExercise.exe
+C:\Users\guica\source\repos\TratamentoDeErros\ExceptionFiltersExercise\bin\Debug\net8.0\ExceptionFiltersExercise.deps.json
+C:\Users\guica\source\repos\TratamentoDeErros\ExceptionFiltersExercise\bin\Debug\net8.0\ExceptionFiltersExercise.runtimeconfig.json
+C:\Users\guica\source\repos\TratamentoDeErros\ExceptionFiltersExercise\bin\Debug\net8.0\ExceptionFiltersExercise.dll
+C:\Users\guica\source\repos\TratamentoDeErros\ExceptionFiltersExercise\bin\Debug\net8.0\ExceptionFiltersExercise.pdb
+C:\Users\guica\source\repos\TratamentoDeErros\ExceptionFiltersExercise\obj\Debug\net8.0\ExceptionFiltersExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\source\repos\TratamentoDeErros\ExceptionFiltersExercise\obj\Debug\net8.0\ExceptionFiltersExercise.AssemblyInfoInputs.cache
+C:\Users\guica\source\repos\TratamentoDeErros\ExceptionFiltersExercise\obj\Debug\net8.0\ExceptionFiltersExercise.AssemblyInfo.cs
+C:\Users\guica\source\repos\TratamentoDeErros\ExceptionFiltersExercise\obj\Debug\net8.0\ExceptionFiltersExercise.csproj.CoreCompileInputs.cache
+C:\Users\guica\source\repos\TratamentoDeErros\ExceptionFiltersExercise\obj\Debug\net8.0\ExceptionFiltersExercise.dll
+C:\Users\guica\source\repos\TratamentoDeErros\ExceptionFiltersExercise\obj\Debug\net8.0\refint\ExceptionFiltersExercise.dll
+C:\Users\guica\source\repos\TratamentoDeErros\ExceptionFiltersExercise\obj\Debug\net8.0\ExceptionFiltersExercise.pdb
+C:\Users\guica\source\repos\TratamentoDeErros\ExceptionFiltersExercise\obj\Debug\net8.0\ExceptionFiltersExercise.genruntimeconfig.cache
+C:\Users\guica\source\repos\TratamentoDeErros\ExceptionFiltersExercise\obj\Debug\net8.0\ref\ExceptionFiltersExercise.dll

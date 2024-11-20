@@ -1,0 +1,14 @@
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ\bin\Debug\net8.0\ConsultasLINQ.exe
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ\bin\Debug\net8.0\ConsultasLINQ.deps.json
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ\bin\Debug\net8.0\ConsultasLINQ.runtimeconfig.json
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ\bin\Debug\net8.0\ConsultasLINQ.dll
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ\bin\Debug\net8.0\ConsultasLINQ.pdb
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ\obj\Debug\net8.0\ConsultasLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ\obj\Debug\net8.0\ConsultasLINQ.AssemblyInfoInputs.cache
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ\obj\Debug\net8.0\ConsultasLINQ.AssemblyInfo.cs
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ\obj\Debug\net8.0\ConsultasLINQ.csproj.CoreCompileInputs.cache
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ\obj\Debug\net8.0\ConsultasLINQ.dll
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ\obj\Debug\net8.0\refint\ConsultasLINQ.dll
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ\obj\Debug\net8.0\ConsultasLINQ.pdb
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ\obj\Debug\net8.0\ConsultasLINQ.genruntimeconfig.cache
+C:\Users\guica\source\repos\Delegates\ConsultasLINQ\obj\Debug\net8.0\ref\ConsultasLINQ.dll

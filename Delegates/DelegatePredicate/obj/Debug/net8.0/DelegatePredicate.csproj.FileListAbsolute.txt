@@ -1,0 +1,14 @@
+C:\Users\guica\source\repos\Delegates\DelegatePredicate\bin\Debug\net8.0\DelegatePredicate.exe
+C:\Users\guica\source\repos\Delegates\DelegatePredicate\bin\Debug\net8.0\DelegatePredicate.deps.json
+C:\Users\guica\source\repos\Delegates\DelegatePredicate\bin\Debug\net8.0\DelegatePredicate.runtimeconfig.json
+C:\Users\guica\source\repos\Delegates\DelegatePredicate\bin\Debug\net8.0\DelegatePredicate.dll
+C:\Users\guica\source\repos\Delegates\DelegatePredicate\bin\Debug\net8.0\DelegatePredicate.pdb
+C:\Users\guica\source\repos\Delegates\DelegatePredicate\obj\Debug\net8.0\DelegatePredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\source\repos\Delegates\DelegatePredicate\obj\Debug\net8.0\DelegatePredicate.AssemblyInfoInputs.cache
+C:\Users\guica\source\repos\Delegates\DelegatePredicate\obj\Debug\net8.0\DelegatePredicate.AssemblyInfo.cs
+C:\Users\guica\source\repos\Delegates\DelegatePredicate\obj\Debug\net8.0\DelegatePredicate.csproj.CoreCompileInputs.cache
+C:\Users\guica\source\repos\Delegates\DelegatePredicate\obj\Debug\net8.0\DelegatePredicate.dll
+C:\Users\guica\source\repos\Delegates\DelegatePredicate\obj\Debug\net8.0\refint\DelegatePredicate.dll
+C:\Users\guica\source\repos\Delegates\DelegatePredicate\obj\Debug\net8.0\DelegatePredicate.pdb
+C:\Users\guica\source\repos\Delegates\DelegatePredicate\obj\Debug\net8.0\DelegatePredicate.genruntimeconfig.cache
+C:\Users\guica\source\repos\Delegates\DelegatePredicate\obj\Debug\net8.0\ref\DelegatePredicate.dll
